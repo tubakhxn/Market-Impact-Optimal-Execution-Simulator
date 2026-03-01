@@ -2,6 +2,7 @@
 # Market Impact & Optimal Execution Simulator
 
 **Creator/Dev:** tubakhxn
+<img width="2991" height="1626" alt="market" src="https://github.com/user-attachments/assets/27fca01f-a1dd-49dd-a7d3-6712e3605468" />
 
 ## What is this project about?
 This project is a professional quantitative finance simulator for modeling and visualizing the market impact of large order executions. It uses microstructure theory and the Almgren-Chriss model to simulate order book depth, price impact, volatility, and liquidity decay. The system can inject large order shocks, compute execution cost, slippage, and market recovery, and includes an AI extension to predict execution cost and optimal slicing strategies. Interactive Plotly visualizations provide deep insight into market dynamics with a dark quant aesthetic.
@@ -37,3 +38,4 @@ Run main.py to start the simulation and view results.
 
 ## Documentation
 All financial formulas are documented in code comments.
+
